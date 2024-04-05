@@ -1,4 +1,4 @@
-# Style_Transfer_Using_GAN
+# MRI-StyleGAN: Transforming Medical Imaging
 
 Style Transfer using Generative Adversarial Networks (GAN)
 
